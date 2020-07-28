@@ -14,7 +14,6 @@ UWorldPosition::UWorldPosition()
 	// ...
 }
 
-
 // Called when the game starts
 void UWorldPosition::BeginPlay()
 {
@@ -37,6 +36,9 @@ void UWorldPosition::BeginPlay()
 
 	UE_LOG(LogTemp, Warning, TEXT("%s"), *Name);
 
+	FString ObjectPosition = GetOwner()->GetActorLocation().ToString();
+
+	UE_LOG(LogTemp, Warning, TEXT("%s is at location %s"), *Name, *ObjectPosition);
 
 }
 
