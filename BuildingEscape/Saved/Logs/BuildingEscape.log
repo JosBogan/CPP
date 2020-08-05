@@ -2877,3 +2877,1073 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.05-14.42.14:410][250]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.249ms to complete.
 [2020.08.05-14.42.16:109][453]LogSlate: Window 'Message Log' being destroyed
 [2020.08.05-14.42.16:114][453]LogSlate: Window 'Message Log' being destroyed
+[2020.08.05-14.45.03:993][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.45.25:903][565]Cmd: DELETE
+[2020.08.05-14.45.25:903][565]Cmd: ACTOR DELETE
+[2020.08.05-14.45.25:905][565]LogEditorActor: Deleted Actor: SpotLight
+[2020.08.05-14.45.25:923][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.08.05-14.45.25:924][565]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.08.05-14.45.27:136][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.45.28:292][841]Cmd: DELETE
+[2020.08.05-14.45.28:292][841]Cmd: ACTOR DELETE
+[2020.08.05-14.45.28:293][841]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.08.05-14.45.28:311][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.08.05-14.45.28:312][841]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.08.05-14.45.29:298][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.46.05:391][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.46.11:741][933]Cmd: TRANSACTION UNDO
+[2020.08.05-14.46.11:741][933]LogEditorTransaction: Undo Edit Source Radius
+[2020.08.05-14.46.11:744][933]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.08.05-14.46.11:772][934]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.46.12:443][  2]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.46.13:518][125]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.46.14:026][180]Cmd: TRANSACTION UNDO
+[2020.08.05-14.46.14:026][180]LogEditorTransaction: Undo Edit Intensity
+[2020.08.05-14.46.14:032][180]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.08.05-14.46.14:109][185]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.46.14:819][255]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.46.15:852][353]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.46.16:771][460]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.08.05-14.46.17:083][494]MaterialEditorStats: Base pass shader: 124 instructions
+[2020.08.05-14.46.17:083][494]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2020.08.05-14.46.17:083][494]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2020.08.05-14.46.17:083][494]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.46.17:083][494]MaterialEditorStats: Texture samplers: 8/16
+[2020.08.05-14.46.17:083][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2020.08.05-14.46.17:083][494]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.46.17:771][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.05-14.46.25:981][559]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.05-14.47.24:349][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.47.43:041][770]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.05-14.48.06:092][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.48.06:309][407]MapCheck: New page: Map Check
+[2020.08.05-14.48.06:319][407]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.05-14.48.06:320][407]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.05-14.48.06:348][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.08.05-14.48.06:358][407]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.48.06:363][407]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.48.06:370][407]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.48.06:382][407]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.08.05-14.48.06:416][407]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.48.08:469][407]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.48.08:469][407]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.48.08:469][407]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.48.08:469][407]TextureStreamingBuild: Display: Compiling optional shaders took 2.114 seconds.
+[2020.08.05-14.48.08:476][407]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2020.08.05-14.48.08:485][407]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2020.08.05-14.48.08:502][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.05-14.48.08:502][407]LightingResults: New page: Lighting Build - 5 Aug 2020 16:48:08
+[2020.08.05-14.48.08:507][407]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.05-14.48.08:509][407]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.05-14.48.08:509][407]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.05-14.48.08:509][407]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.05-14.48.08:509][407]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13492
+[2020.08.05-14.48.13:032][407]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.05-14.48.13:032][407]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.05-14.48.13:033][407]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.05-14.48.13:033][407]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.05-14.48.13:033][407]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.05-14.48.13:033][407]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.05-14.48.13:386][407]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.05-14.48.13:387][407]MapCheck: New page: FirstLevel - 5 Aug 2020 16:48:13
+[2020.08.05-14.48.13:387][407]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.08.05-14.48.13:387][407]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.352ms to complete.
+[2020.08.05-14.48.13:410][407]LogEditorBuildUtils: Build time 0:07
+[2020.08.05-14.48.13:670][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.08.05-14.48.15:440][541]Job is a success!
+[2020.08.05-14.48.15:503][542]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2020.08.05-14.48.15:503][542]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.05-14.48.15:503][542]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.08.05-14.48.15:503][542]LogVolumetricLightmapImport:      Bricks at Level
+[2020.08.05-14.48.15:503][542]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.08.05-14.48.15:503][542]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.08.05-14.48.15:503][542]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 128X128)
+[2020.08.05-14.48.15:563][542]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 256X128)
+[2020.08.05-14.48.15:572][542]LogStaticLightingSystem: FirstLevel_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.08.05-14.48.15:591][542]Lightmass on DESKTOP-FC75NCE: 1.00 sec total, 126 ms importing, 17 ms setup, 385 ms photons, 439 ms processing, 0 ms extra exporting [25/25 mappings]. Threads: 2.91 sec total, 666 ms processing.
+[2020.08.05-14.48.15:592][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.08.05-14.48.15:599][542]LogStaticLightingSystem: Illumination: 7.08 sec (40 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2020.08.05-14.48.15:599][542]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.08.05-14.48.15:599][542]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2020.08.05-14.48.16:051][542]DumpUnbuiltLightIteractions
+[2020.08.05-14.48.16:052][542]Lights with unbuilt interactions: 0
+[2020.08.05-14.48.16:052][542]
+[2020.08.05-14.48.16:052][542]Primitives with unbuilt interactions: 0
+[2020.08.05-14.48.16:161][543]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.05-14.48.16:161][543]MapCheck: New page: FirstLevel - 5 Aug 2020 16:48:16
+[2020.08.05-14.48.16:161][543]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.421ms to complete.
+[2020.08.05-14.48.18:940][874]LogSlate: Window 'Message Log' being destroyed
+[2020.08.05-14.48.18:941][874]LogSlate: Window 'Message Log' being destroyed
+[2020.08.05-14.48.19:933][993]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-14.48.19:942][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.48.19:942][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-14.48.19:942][993]PIE: New page: PIE session: FirstLevel (5 Aug 2020 16:48:19)
+[2020.08.05-14.48.19:943][993]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2020.08.05-14.48.19:947][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004763s)
+[2020.08.05-14.48.19:948][993]LogAIModule: Creating AISystem for world FirstLevel
+[2020.08.05-14.48.19:948][993]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2020.08.05-14.48.19:948][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.005512s)
+[2020.08.05-14.48.19:964][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.08.05-14.48.19:976][993]LogInit: XAudio2 using 'S22E390 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.05-14.48.19:986][993]LogInit: FAudioDevice initialized.
+[2020.08.05-14.48.20:011][993]LogLoad: Game class is 'GameModeBase'
+[2020.08.05-14.48.20:012][993]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.08.05-15.48.20
+[2020.08.05-14.48.20:012][993]LogWorld: Bringing up level for play took: 0.000913
+[2020.08.05-14.48.20:024][993]LogTemp: Warning: Sphere_2
+[2020.08.05-14.48.20:024][993]LogTemp: Warning: Sphere_2 is at location X=180.000 Y=290.000 Z=130.000
+[2020.08.05-14.48.20:024][993]LogTemp: Warning: Cylinder_5
+[2020.08.05-14.48.20:024][993]LogTemp: Warning: Cylinder_5 is at location X=50.000 Y=350.000 Z=130.000
+[2020.08.05-14.48.20:025][993]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel -0.597
+[2020.08.05-14.48.20:025][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.48.33:191][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.48.33:192][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-14.48.33:222][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-14.48.33:222][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.48.33:244][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-14.48.33:245][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.05-14.48.33:291][574]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.08.05-14.49.52:481][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.49.54:123][255]Cmd: DELETE
+[2020.08.05-14.49.54:123][255]Cmd: ACTOR DELETE
+[2020.08.05-14.49.54:124][255]LogEditorActor: Deleted Actor: PointLight
+[2020.08.05-14.49.54:143][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.08.05-14.49.54:143][255]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.08.05-14.49.56:571][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.50.05:200][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.50.05:300][544]MapCheck: New page: Map Check
+[2020.08.05-14.50.05:312][544]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.05-14.50.05:312][544]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.05-14.50.05:336][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.08.05-14.50.05:347][544]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.50.05:353][544]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.50.05:358][544]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.50.05:369][544]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.08.05-14.50.05:394][544]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.50.07:323][544]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.50.07:323][544]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.50.07:323][544]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.50.07:323][544]TextureStreamingBuild: Display: Compiling optional shaders took 1.979 seconds.
+[2020.08.05-14.50.07:329][544]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2020.08.05-14.50.07:338][544]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2020.08.05-14.50.07:356][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.05-14.50.07:356][544]LightingResults: New page: Lighting Build - 5 Aug 2020 16:50:07
+[2020.08.05-14.50.07:360][544]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.05-14.50.07:364][544]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.05-14.50.07:364][544]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.05-14.50.07:365][544]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.05-14.50.07:365][544]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13492
+[2020.08.05-14.50.11:879][544]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.05-14.50.11:879][544]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.05-14.50.11:879][544]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.05-14.50.11:879][544]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.05-14.50.11:879][544]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.05-14.50.11:879][544]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.05-14.50.12:004][544]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.05-14.50.12:005][544]MapCheck: New page: FirstLevel - 5 Aug 2020 16:50:12
+[2020.08.05-14.50.12:005][544]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.08.05-14.50.12:005][544]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.308ms to complete.
+[2020.08.05-14.50.12:028][544]LogEditorBuildUtils: Build time 0:06
+[2020.08.05-14.50.12:124][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.08.05-14.50.13:512][651]Job is a success!
+[2020.08.05-14.50.13:572][652]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2020.08.05-14.50.13:573][652]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.05-14.50.13:573][652]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.08.05-14.50.13:573][652]LogVolumetricLightmapImport:      Bricks at Level
+[2020.08.05-14.50.13:573][652]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.08.05-14.50.13:573][652]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.08.05-14.50.13:573][652]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.08.05-14.50.13:641][652]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 128X128)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 32X32)
+[2020.08.05-14.50.13:642][652]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 256X128)
+[2020.08.05-14.50.13:652][652]LogStaticLightingSystem: FirstLevel_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.08.05-14.50.13:670][652]Lightmass on DESKTOP-FC75NCE: 1.15 sec total, 142 ms importing, 22 ms setup, 388 ms photons, 568 ms processing, 0 ms extra exporting [25/25 mappings]. Threads: 3.81 sec total, 849 ms processing.
+[2020.08.05-14.50.13:672][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.08.05-14.50.13:680][652]LogStaticLightingSystem: Illumination: 6.30 sec (46 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2020.08.05-14.50.13:680][652]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.08.05-14.50.13:680][652]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2020.08.05-14.50.13:887][652]DumpUnbuiltLightIteractions
+[2020.08.05-14.50.13:887][652]Lights with unbuilt interactions: 0
+[2020.08.05-14.50.13:887][652]
+[2020.08.05-14.50.13:887][652]Primitives with unbuilt interactions: 0
+[2020.08.05-14.50.13:952][653]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.05-14.50.13:952][653]MapCheck: New page: FirstLevel - 5 Aug 2020 16:50:13
+[2020.08.05-14.50.13:952][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.256ms to complete.
+[2020.08.05-14.50.20:773][763]LogSlate: Window 'Message Log' being destroyed
+[2020.08.05-14.50.20:779][763]LogSlate: Window 'Message Log' being destroyed
+[2020.08.05-14.50.22:126][924]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.05-14.50.22:136][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.50.22:136][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.05-14.50.22:136][924]PIE: New page: PIE session: FirstLevel (5 Aug 2020 16:50:22)
+[2020.08.05-14.50.22:136][924]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2020.08.05-14.50.22:140][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003709s)
+[2020.08.05-14.50.22:140][924]LogAIModule: Creating AISystem for world FirstLevel
+[2020.08.05-14.50.22:140][924]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2020.08.05-14.50.22:140][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.004287s)
+[2020.08.05-14.50.22:157][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.08.05-14.50.22:169][924]LogInit: XAudio2 using 'S22E390 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.05-14.50.22:178][924]LogInit: FAudioDevice initialized.
+[2020.08.05-14.50.22:205][924]LogLoad: Game class is 'GameModeBase'
+[2020.08.05-14.50.22:206][924]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.08.05-15.50.22
+[2020.08.05-14.50.22:207][924]LogWorld: Bringing up level for play took: 0.000630
+[2020.08.05-14.50.22:217][924]LogTemp: Warning: Sphere_2
+[2020.08.05-14.50.22:217][924]LogTemp: Warning: Sphere_2 is at location X=180.000 Y=290.000 Z=130.000
+[2020.08.05-14.50.22:217][924]LogTemp: Warning: Cylinder_5
+[2020.08.05-14.50.22:217][924]LogTemp: Warning: Cylinder_5 is at location X=50.000 Y=350.000 Z=130.000
+[2020.08.05-14.50.22:218][924]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel -0.403
+[2020.08.05-14.50.22:218][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.50.25:532][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.50.25:532][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-14.50.25:561][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.05-14.50.25:561][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2020.08.05-14.50.25:581][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.05-14.50.25:583][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.08.05-14.50.25:636][324]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.08.05-14.51.14:730][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.52.20:557][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.05-14.52.20:557][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/Autosaves/Game/Levels/FirstLevel_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.05-14.52.20:655][309]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/FirstLevel_Auto8971CA3B4445A30E7E6DC1EA008D6483B.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/Autosaves/Game/Levels/FirstLevel_Auto8.umap'
+[2020.08.05-14.52.20:660][309]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/FirstLevel' took 0.133
+[2020.08.05-14.52.20:660][309]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2020.08.05-14.53.33:800][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.05-14.53.40:189][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.53.58:526][741]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.08.05-14.54.02:557][196]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2020.08.05-14.54.27:552][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.54.34:555][921]LogMaterialEditor: Saving and Compiling material wood
+[2020.08.05-14.54.35:963][921]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.08.05-14.54.36:021][921]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.54.36:028][921]LogMaterial: Display: Missing cached shader map for material wood, compiling. 
+[2020.08.05-14.54.36:045][921]LogMaterial: Display: Missing cached shader map for material wood, compiling. 
+[2020.08.05-14.54.36:084][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.08.05-14.54.36:094][921]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.54.38:206][921]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.08.05-14.54.38:206][921]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.08.05-14.54.38:208][921]TextureStreamingBuild: Display: Compiling optional shaders took 2.122 seconds.
+[2020.08.05-14.54.38:227][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.05-14.54.40:639][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/wood/wood" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/wood/wood.uasset" SILENT=true
+[2020.08.05-14.54.40:686][921]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/woodC52951504DED3279424DB5B62323CD02.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/wood/wood.uasset'
+[2020.08.05-14.54.44:738][390]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/stone/stone.stone
+[2020.08.05-14.54.44:741][390]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.54.44:800][390]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.54.44:815][390]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.54.44:845][390]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.54.44:858][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.05-14.54.44:864][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.05-14.54.44:869][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.05-14.54.44:873][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.05-14.54.45:190][412]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.54.45:992][508]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.54.47:056][635]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.54.47:471][684]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.08.05-14.54.47:471][684]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.08.05-14.54.47:472][684]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.08.05-14.54.47:472][684]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.54.47:472][684]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.54.47:472][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.54.47:472][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.55.14:241][285]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.14:257][285]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.14:274][285]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.55.14:300][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.05-14.55.15:037][370]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.55.16:133][501]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.55.17:077][613]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.08.05-14.55.17:078][613]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.08.05-14.55.17:078][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.08.05-14.55.17:078][613]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.55.17:078][613]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.55.17:078][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.55.17:078][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.55.25:473][620]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.25:490][621]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.55.25:983][680]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.55.26:561][748]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.08.05-14.55.27:241][830]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.55.28:200][944]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.08.05-14.55.28:200][944]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.08.05-14.55.28:200][944]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.08.05-14.55.28:200][944]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.55.28:201][944]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.55.28:201][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.55.28:201][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.55.46:871][183]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.46:890][183]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.08.05-14.55.46:906][183]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.55.46:920][183]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.47:123][206]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.55.47:701][275]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.55.48:324][349]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.48:349][349]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.08.05-14.55.48:380][349]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.48:599][373]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.55.49:166][441]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.55.50:100][553]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.55.51:288][694]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.55.51:288][694]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.55.51:288][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.55.51:288][694]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.55.51:288][694]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.55.51:288][694]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.55.51:288][694]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.55.58:359][542]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.55.58:377][543]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.55.58:801][594]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.55.59:669][698]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.56.00:773][829]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.56.00:773][829]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.56.00:773][829]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.56.00:773][829]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.56.00:773][829]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.56.00:773][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.56.00:773][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.56.03:573][165]LogMaterialEditor: Saving and Compiling material stone
+[2020.08.05-14.56.03:873][165]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.56.03:935][165]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.56.03:935][165]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.56.03:953][165]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.56.03:996][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.05-14.56.04:005][165]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.56.05:963][165]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.08.05-14.56.05:963][165]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.08.05-14.56.05:967][165]TextureStreamingBuild: Display: Compiling optional shaders took 1.970 seconds.
+[2020.08.05-14.56.05:994][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.08.05-14.56.08:381][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset" SILENT=true
+[2020.08.05-14.56.08:401][165]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone35BDF06B43293F082D2E9497FE0C397A.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset'
+[2020.08.05-14.56.25:907][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.57.09:765][512]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.09:797][513]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.10:423][588]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.11:297][693]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.57.12:353][819]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.57.12:353][819]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.57.12:353][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.57.12:353][819]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.57.12:353][819]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.57.12:353][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.57.12:353][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.57.31:263][ 87]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.31:278][ 87]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.31:310][ 90]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.31:762][143]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.31:787][144]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.32:268][200]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.33:265][318]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.57.34:427][457]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.57.34:427][457]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.57.34:427][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.57.34:428][457]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.57.34:428][457]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.57.34:428][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.57.34:428][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.57.37:720][851]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.37:735][851]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.37:756][853]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.38:176][903]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.39:044][  7]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.57.40:079][131]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.57.40:079][131]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.57.40:079][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.57.40:079][131]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.57.40:079][131]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.57.40:079][131]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.57.40:079][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.57.42:049][367]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.42:066][367]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.42:088][369]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.42:566][426]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.43:183][499]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.43:250][505]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.43:841][576]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.44:769][687]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.57.45:951][828]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.57.45:951][828]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.57.45:951][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.57.45:951][828]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.57.45:951][828]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.57.45:952][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.57.45:952][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.57.51:608][504]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.51:624][504]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.51:653][505]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.52:068][555]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.52:946][660]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.57.54:110][799]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.57.54:110][799]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.57.54:110][799]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.57.54:110][799]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.57.54:110][799]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.57.54:110][799]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.57.54:110][799]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.57.54:887][892]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.54:909][892]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.54:909][892]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.08.05-14.57.55:518][962]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.56:541][ 83]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.56:732][104]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.57:251][166]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.57.58:217][281]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.57.58:258][285]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.57.58:286][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.05-14.57.58:610][320]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.57.59:172][387]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.58.00:306][522]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.58.01:204][628]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.05-14.58.01:204][628]MaterialEditorStats: Base pass shader with Surface Lightmap: 152 instructions
+[2020.08.05-14.58.01:204][628]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2020.08.05-14.58.01:204][628]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.58.01:204][628]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.58.01:204][628]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.58.01:204][628]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.58.16:859][506]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.58.16:882][508]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.58.17:314][559]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.58.18:199][665]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.58.19:369][804]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.05-14.58.19:369][804]MaterialEditorStats: Base pass shader with Surface Lightmap: 152 instructions
+[2020.08.05-14.58.19:369][804]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2020.08.05-14.58.19:369][804]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.58.19:369][804]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.58.19:369][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.58.19:369][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.58.44:258][790]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.58.44:274][790]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.58.44:277][790]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.08.05-14.58.44:305][790]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.58.44:722][838]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.58.45:137][886]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.58.45:167][886]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.08.05-14.58.45:198][886]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.58.45:216][886]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.58.45:845][960]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-14.58.46:791][ 73]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-14.58.47:986][215]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-14.58.47:986][215]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-14.58.47:987][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-14.58.47:987][215]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-14.58.47:987][215]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-14.58.47:987][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-14.58.47:987][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-14.59.08:198][640]LogMaterialEditor: Saving and Compiling material stone
+[2020.08.05-14.59.08:518][640]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.59.08:577][640]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.59.08:584][640]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.59.08:603][640]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.59.08:642][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.08.05-14.59.08:652][640]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-14.59.10:820][640]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.08.05-14.59.10:820][640]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.08.05-14.59.10:822][640]TextureStreamingBuild: Display: Compiling optional shaders took 2.179 seconds.
+[2020.08.05-14.59.10:850][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.05-14.59.13:373][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset" SILENT=true
+[2020.08.05-14.59.13:389][640]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone3194DEE447C72BD2877CCB85465FBFD1.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset'
+[2020.08.05-14.59.16:294][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.05-14.59.18:145][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.59.18:298][216]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Models/stone/stone_floor.stone_floor
+[2020.08.05-14.59.20:265][435]LogSlate: Window 'stone_floor' being destroyed
+[2020.08.05-14.59.34:986][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone_floor" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset" SILENT=true
+[2020.08.05-14.59.35:005][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.08.05-14.59.35:010][172]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2020.08.05-14.59.35:027][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-14.59.35:040][172]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_floor0AF18BB540E57F0B02B696A188F88DCC.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset'
+[2020.08.05-14.59.54:223][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-14.59.59:056][ 51]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.59.59:073][ 51]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-14.59.59:105][ 54]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-14.59.59:742][130]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.00.00:737][248]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.00.01:875][384]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.00.01:875][384]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.00.01:875][384]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.00.01:875][384]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.00.01:875][384]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.00.01:875][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.00.01:875][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.00.03:780][611]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.00.03:798][612]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.00.03:916][626]LogMaterialEditor: Saving and Compiling material stone
+[2020.08.05-15.00.04:357][626]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.00.04:375][626]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.00.04:472][626]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.00.04:472][626]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.00.04:501][626]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.00.04:558][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.08.05-15.00.04:567][626]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-15.00.06:625][626]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.08.05-15.00.06:626][626]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.08.05-15.00.06:626][626]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.08.05-15.00.06:628][626]TextureStreamingBuild: Display: Compiling optional shaders took 2.070 seconds.
+[2020.08.05-15.00.06:649][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.08.05-15.00.08:973][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset" SILENT=true
+[2020.08.05-15.00.08:998][626]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stoneC98EBC8B4E85B057E53538B0901CFBC5.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset'
+[2020.08.05-15.00.09:007][626]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.00.09:007][626]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.00.09:007][626]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.00.09:007][626]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.00.09:007][626]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.00.09:007][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.00.09:007][626]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.00.15:539][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone_floor" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset" SILENT=true
+[2020.08.05-15.00.15:556][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.08.05-15.00.15:561][345]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2020.08.05-15.00.15:578][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.05-15.00.15:600][345]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_floorC2D6E35A423AC4388D7E3CB44B9A53D7.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset'
+[2020.08.05-15.00.21:826][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.05-15.00.23:939][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone_floor" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset" SILENT=true
+[2020.08.05-15.00.23:957][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.05-15.00.23:962][337]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2020.08.05-15.00.23:980][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.05-15.00.23:994][337]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_floorF38BD09742E6998F78E214AADDB50184.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset'
+[2020.08.05-15.01.02:093][902]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.02:123][903]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.02:783][982]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.03:746][ 97]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.04:950][237]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.01.04:950][237]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.01.04:950][237]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.01.04:950][237]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.01.04:950][237]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.01.04:950][237]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.01.04:950][237]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.01.16:746][651]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.16:761][651]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.16:779][652]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.17:264][710]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.17:815][775]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.17:979][792]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.18:578][863]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.19:497][973]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.20:676][114]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.01.20:676][114]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.01.20:676][114]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.01.20:676][114]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.01.20:676][114]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.01.20:676][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.01.20:676][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.01.22:620][347]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.22:636][347]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.22:654][348]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.23:089][400]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.23:967][505]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.24:810][605]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.24:827][605]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.25:356][668]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.26:204][766]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.27:429][912]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.01.27:429][912]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.01.27:429][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.01.27:429][912]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.01.27:429][912]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.01.27:429][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.01.27:429][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.01.29:332][139]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.29:363][140]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.29:832][196]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.30:789][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.31:217][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant2Vector_0, compiling. 
+[2020.08.05-15.01.31:986][452]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.01.31:986][452]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.01.31:986][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.01.31:986][452]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.01.31:986][452]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.01.31:986][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.01.31:986][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.01.33:234][601]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.33:267][602]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.33:701][654]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.34:556][753]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.35:602][878]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.01.35:602][878]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.01.35:602][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.01.35:602][878]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.01.35:602][878]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.01.35:602][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.01.35:602][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.01.54:117][ 97]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.54:148][ 98]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.54:633][156]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.55:649][277]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.56:140][335]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.56:182][338]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.56:813][413]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.57:330][474]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.57:370][477]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.57:999][552]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.01.58:869][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.01.59:386][717]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.01.59:405][717]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.01.59:989][787]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.08.05-15.02.00:872][893]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.08.05-15.02.01:982][ 25]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.05-15.02.01:982][ 25]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2020.08.05-15.02.01:982][ 25]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.08.05-15.02.01:982][ 25]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.08.05-15.02.01:982][ 25]MaterialEditorStats: Texture samplers: 7/16
+[2020.08.05-15.02.01:982][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.08.05-15.02.01:982][ 25]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.05-15.02.07:558][694]LogMaterialEditor: Saving and Compiling material stone
+[2020.08.05-15.02.07:859][694]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.02.07:918][694]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.08.05-15.02.07:926][694]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.02.07:944][694]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2020.08.05-15.02.07:995][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.08.05-15.02.08:004][694]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.05-15.02.09:962][694]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.08.05-15.02.09:962][694]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.08.05-15.02.09:963][694]TextureStreamingBuild: Display: Compiling optional shaders took 1.969 seconds.
+[2020.08.05-15.02.09:991][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.08.05-15.02.12:306][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset" SILENT=true
+[2020.08.05-15.02.12:326][694]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stoneA4B195BD45FA541A961BD883256D03CD.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone.uasset'
+[2020.08.05-15.02.21:520][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone_floor" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset" SILENT=true
+[2020.08.05-15.02.21:537][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.08.05-15.02.21:541][792]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2020.08.05-15.02.21:560][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.05-15.02.21:574][792]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_floor891344DC4A790A81133AC5BF452CBD04.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_floor.uasset'
+[2020.08.05-15.02.46:398][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.05-15.02.46:398][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/Autosaves/Game/Levels/FirstLevel_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.05-15.02.46:498][172]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/FirstLevel_Auto91A966D8C45946490885A1F8CF8C270A1.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/Autosaves/Game/Levels/FirstLevel_Auto9.umap'
+[2020.08.05-15.02.46:503][172]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/FirstLevel' took 0.124
+[2020.08.05-15.02.46:503][172]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2020.08.05-15.03.16:178][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.08.05-15.03.27:659][ 35]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.05-15.03.29:102][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.05-15.03.30:270][177]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.05-15.03.30:312][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.08.05-15.03.30:330][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.08.05-15.03.30:347][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.03.31:665][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.05-15.03.33:121][324]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.05-15.03.33:167][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.08.05-15.03.33:187][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.08.05-15.03.33:204][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.15:274][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/Brass" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/Brass.uasset" SILENT=true
+[2020.08.05-15.04.15:288][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/Brass10212296423F2B730630AF820CEF01F3.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/Brass.uasset'
+[2020.08.05-15.04.15:357][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.08.05-15.04.15:376][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.08.05-15.04.15:393][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.15:399][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/DM_door" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/DM_door.uasset" SILENT=true
+[2020.08.05-15.04.15:423][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/DM_doorC1F790E74C8A3134F1A495B70149563C.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/DM_door.uasset'
+[2020.08.05-15.04.15:508][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/stone/stone" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone.uasset" SILENT=true
+[2020.08.05-15.04.15:524][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stoneA5A53AB441646649C4C13D9B2687F8AC.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone.uasset'
+[2020.08.05-15.04.15:565][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_Rock_CliffSnow2_1K_rF71BFB5D499897932C87A88D38B7BD20.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/TexturesCom_Rock_CliffSnow2_1K_roughness.uasset'
+[2020.08.05-15.04.15:612][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_Rock_CliffSnow2_1K_nDF42EBC9473A9BCFF7EF2CB34FE35616.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/TexturesCom_Rock_CliffSnow2_1K_normal.uasset'
+[2020.08.05-15.04.15:635][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_Rock_CliffSnow2_1K_aA8981FAB47C73FFFB5B7B2AAC15A05E2.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/TexturesCom_Rock_CliffSnow2_1K_ao.uasset'
+[2020.08.05-15.04.15:675][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_Rock_CliffSnow2_1K_a7F5269C541908A74195FF78B02C3C2F0.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/TexturesCom_Rock_CliffSnow2_1K_albedo.uasset'
+[2020.08.05-15.04.15:688][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/stone/stone_door" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone_door.uasset" SILENT=true
+[2020.08.05-15.04.15:701][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_door093320384FF390395101B6A49C268926.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone_door.uasset'
+[2020.08.05-15.04.15:714][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/stone/stone_wall" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone_wall.uasset" SILENT=true
+[2020.08.05-15.04.15:730][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_wallCBD8C4AB4017CBA8A82CE8AA75D2E545.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone_wall.uasset'
+[2020.08.05-15.04.15:733][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stone/stone_wall" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_wall.uasset" SILENT=true
+[2020.08.05-15.04.15:738][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_wall5D5F4CEC4B5EEAF73C1D55A977A0679D.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/stone/stone_wall.uasset'
+[2020.08.05-15.04.15:757][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/stone/stone_floor" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone_floor.uasset" SILENT=true
+[2020.08.05-15.04.15:771][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/stone_floor029A1BF149ECAEDA59E243AC4072112C.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/stone/stone_floor.uasset'
+[2020.08.05-15.04.16:071][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.08.05-15.04.16:087][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.05-15.04.16:101][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:118][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:134][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:151][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:168][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:188][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.05-15.04.16:204][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.08.05-15.04.16:211][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_doorframe" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/SM_doorframe.uasset" SILENT=true
+[2020.08.05-15.04.16:228][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/SM_doorframe2554ADA34010F62EBB2035AF947C2B29.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/SM_doorframe.uasset'
+[2020.08.05-15.04.16:289][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/wood/wood" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/wood.uasset" SILENT=true
+[2020.08.05-15.04.16:312][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/wood7383E52941CFF8F0FDEC42B72C48D223.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/wood.uasset'
+[2020.08.05-15.04.16:341][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_roughn2E899D4A4D24479DADEA3DA34DA06585.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/TexturesCom_CastleGate_1K_roughness.uasset'
+[2020.08.05-15.04.16:383][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_normal877CB2D740261379B8F07CB64356A0AD.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/TexturesCom_CastleGate_1K_normal.uasset'
+[2020.08.05-15.04.16:408][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_metall92E4854E45C40783AF1A6E9F7F73619B.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/TexturesCom_CastleGate_1K_metallic.uasset'
+[2020.08.05-15.04.16:437][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_ao827BF1094A0BE17AFC22F98E7B7A94F0.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/TexturesCom_CastleGate_1K_ao.uasset'
+[2020.08.05-15.04.16:474][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_albedoF7423DDD4CBB2F791DCF72BD69C7AC21.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/TexturesCom_CastleGate_1K_albedo.uasset'
+[2020.08.05-15.04.16:485][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/wood/wood_door" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/wood_door.uasset" SILENT=true
+[2020.08.05-15.04.16:499][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/wood_door3E981C354C7367DEC0FD0DB9C5544B2A.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/wood/wood_door.uasset'
+[2020.08.05-15.04.16:759][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:776][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:794][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:809][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:826][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.05-15.04.16:843][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.05-15.04.16:860][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.05-15.04.16:879][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.08.05-15.04.16:896][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.16:904][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/DM_door" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/DM_door.uasset" SILENT=true
+[2020.08.05-15.04.16:913][352]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/DM_doorC3BC47B44BAD9468E1C3C38F7DBC01FA.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/DM_door.uasset'
+[2020.08.05-15.04.21:084][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/materials_textures/UV_Test" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/UV_Test.uasset" SILENT=true
+[2020.08.05-15.04.21:093][830]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/UV_Test579D87BD4AD90A565F39AB8F129136BF.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Models/materials_textures/UV_Test.uasset'
+[2020.08.05-15.04.21:157][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.08.05-15.04.21:176][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.08.05-15.04.21:193][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.04.54:060][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.05-15.05.13:188][475]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.05-15.05.58:344][299]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (45.148 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.08.05-15.06.38:696][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.08.05-15.06.38:703][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.05-15.06.38:720][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.05-15.06.38:803][757]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/FirstLevel485BCA194A131FAF2AB0C7B932496973.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Levels/FirstLevel.umap'
+[2020.08.05-15.06.38:826][757]LogFileHelpers: Saving map 'FirstLevel' took 0.123
+[2020.08.05-15.06.38:827][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel_BuiltData" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Levels/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.08.05-15.06.38:852][757]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/FirstLevel_BuiltData8F03D0F14116E4F416FF66854D15FBA0.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Levels/FirstLevel_BuiltData.uasset'
+[2020.08.05-15.06.38:854][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel_BuiltData" FILE="Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Levels/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.08.05-15.06.38:894][757]LogSavePackage: Moving 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Saved/FirstLevel_BuiltData9A27D4AF4E11ADE46AF25494517C1FD3.tmp' to 'Z:/Jos/Unreal/BuildingEscape/BuildingEscape/Content/Levels/FirstLevel_BuiltData.uasset'
+[2020.08.05-15.06.41:769][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.08.05-15.06.41:905][ 98]LogSlate: Window 'BuildingEscape - Unreal Editor' being destroyed
+[2020.08.05-15.06.42:107][ 99]Cmd: QUIT_EDITOR
+[2020.08.05-15.06.42:903][ 99]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.05-15.06.42:914][ 99]LogExit: Preparing to exit.
+[2020.08.05-15.06.43:735][ 99]LogExit: Editor shut down
+[2020.08.05-15.06.43:735][ 99]LogExit: Transaction tracking system shut down
+[2020.08.05-15.06.44:032][ 99]LogExit: Object subsystem successfully closed.
+[2020.08.05-15.06.44:045][ 99]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.08.05-15.06.44:048][ 99]LogD3D11RHI: Shutdown
+[2020.08.05-15.06.44:048][ 99]LogD3D11RHI: CleanupD3DDevice
+[2020.08.05-15.06.44:049][ 99]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.08.05-15.06.44:049][ 99]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.08.05-15.06.44:049][ 99]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.08.05-15.06.44:049][ 99]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.08.05-15.06.44:049][ 99]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.08.05-15.06.44:049][ 99]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.08.05-15.06.44:141][ 99]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module BuildingEscape (658)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (656)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module Voice (654)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module TextureEditor (652)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (650)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module MeshBuilder (648)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (646)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.08.05-15.06.44:171][ 99]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.08.05-15.06.44:172][ 99]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.08.05-15.06.44:172][ 99]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.08.05-15.06.44:172][ 99]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.08.05-15.06.44:172][ 99]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2020.08.05-15.06.44:172][ 99]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2020.08.05-15.06.44:172][ 99]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2020.08.05-15.06.44:173][ 99]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2020.08.05-15.06.44:174][ 99]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2020.08.05-15.06.44:175][ 99]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2020.08.05-15.06.44:176][ 99]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2020.08.05-15.06.44:177][ 99]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2020.08.05-15.06.44:898][ 99]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2020.08.05-15.06.44:898][ 99]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2020.08.05-15.06.44:898][ 99]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2020.08.05-15.06.44:898][ 99]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2020.08.05-15.06.44:898][ 99]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2020.08.05-15.06.44:898][ 99]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2020.08.05-15.06.44:910][ 99]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2020.08.05-15.06.44:911][ 99]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2020.08.05-15.06.44:911][ 99]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2020.08.05-15.06.44:911][ 99]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2020.08.05-15.06.44:911][ 99]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2020.08.05-15.06.44:911][ 99]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2020.08.05-15.06.44:912][ 99]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2020.08.05-15.06.44:912][ 99]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2020.08.05-15.06.44:956][ 99]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2020.08.05-15.06.44:956][ 99]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2020.08.05-15.06.44:956][ 99]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2020.08.05-15.06.44:958][ 99]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2020.08.05-15.06.44:958][ 99]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2020.08.05-15.06.44:958][ 99]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2020.08.05-15.06.44:958][ 99]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2020.08.05-15.06.44:959][ 99]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2020.08.05-15.06.44:959][ 99]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2020.08.05-15.06.44:959][ 99]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2020.08.05-15.06.44:959][ 99]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2020.08.05-15.06.44:960][ 99]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2020.08.05-15.06.44:960][ 99]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.08.05-15.06.44:961][ 99]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.08.05-15.06.44:962][ 99]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2020.08.05-15.06.44:965][ 99]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2020.08.05-15.06.45:135][ 99]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2020.08.05-15.06.45:136][ 99]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2020.08.05-15.06.45:136][ 99]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2020.08.05-15.06.45:136][ 99]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2020.08.05-15.06.45:136][ 99]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2020.08.05-15.06.45:136][ 99]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2020.08.05-15.06.45:136][ 99]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2020.08.05-15.06.45:136][ 99]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2020.08.05-15.06.45:137][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.08.05-15.06.45:138][ 99]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.08.05-15.06.45:139][ 99]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.08.05-15.06.45:139][ 99]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.08.05-15.06.45:139][ 99]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.08.05-15.06.45:139][ 99]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.08.05-15.06.45:139][ 99]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.08.05-15.06.45:139][ 99]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.08.05-15.06.45:140][ 99]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2020.08.05-15.06.45:140][ 99]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2020.08.05-15.06.45:140][ 99]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2020.08.05-15.06.45:140][ 99]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2020.08.05-15.06.45:140][ 99]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2020.08.05-15.06.45:140][ 99]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2020.08.05-15.06.45:140][ 99]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2020.08.05-15.06.45:141][ 99]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2020.08.05-15.06.45:141][ 99]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2020.08.05-15.06.45:141][ 99]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2020.08.05-15.06.45:141][ 99]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2020.08.05-15.06.45:142][ 99]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2020.08.05-15.06.45:142][ 99]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.08.05-15.06.45:142][ 99]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.08.05-15.06.45:142][ 99]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.08.05-15.06.45:142][ 99]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.08.05-15.06.45:142][ 99]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.08.05-15.06.45:142][ 99]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.08.05-15.06.45:143][ 99]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.08.05-15.06.45:143][ 99]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.08.05-15.06.45:143][ 99]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.08.05-15.06.45:143][ 99]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.08.05-15.06.45:143][ 99]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.08.05-15.06.45:143][ 99]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.08.05-15.06.45:143][ 99]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.08.05-15.06.45:245][ 99]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.08.05-15.06.45:346][ 99]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.08.05-15.06.45:346][ 99]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.08.05-15.06.45:357][ 99]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.08.05-15.06.45:357][ 99]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.08.05-15.06.45:357][ 99]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.08.05-15.06.45:358][ 99]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.08.05-15.06.45:358][ 99]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.08.05-15.06.45:359][ 99]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.08.05-15.06.45:359][ 99]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.08.05-15.06.45:359][ 99]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.08.05-15.06.45:359][ 99]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.08.05-15.06.45:359][ 99]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.08.05-15.06.45:360][ 99]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.08.05-15.06.45:361][ 99]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.08.05-15.06.45:361][ 99]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.08.05-15.06.45:361][ 99]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.08.05-15.06.45:361][ 99]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.08.05-15.06.45:361][ 99]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.08.05-15.06.45:361][ 99]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.08.05-15.06.45:362][ 99]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.08.05-15.06.45:362][ 99]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.08.05-15.06.45:362][ 99]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.08.05-15.06.45:362][ 99]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.08.05-15.06.45:362][ 99]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.08.05-15.06.45:363][ 99]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.08.05-15.06.45:363][ 99]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.08.05-15.06.45:364][ 99]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.08.05-15.06.45:364][ 99]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.08.05-15.06.45:365][ 99]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.08.05-15.06.45:365][ 99]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.08.05-15.06.45:367][ 99]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.08.05-15.06.45:368][ 99]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.08.05-15.06.45:368][ 99]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.08.05-15.06.45:368][ 99]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.08.05-15.06.45:387][ 99]LogDerivedDataCache: Shutdown
+[2020.08.05-15.06.45:387][ 99]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.08.05-15.06.45:387][ 99]LogXGEController: Cleaning working directory: C:/Users/Jos/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.05-15.06.45:387][ 99]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.08.05-15.06.45:388][ 99]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.08.05-15.06.45:388][ 99]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.08.05-15.06.45:388][ 99]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.08.05-15.06.45:388][ 99]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.08.05-15.06.45:388][ 99]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.08.05-15.06.45:388][ 99]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.08.05-15.06.45:389][ 99]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.08.05-15.06.45:391][ 99]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.08.05-15.06.45:391][ 99]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.08.05-15.06.45:391][ 99]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.08.05-15.06.45:391][ 99]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.08.05-15.06.45:391][ 99]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.08.05-15.06.45:392][ 99]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.08.05-15.06.45:393][ 99]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.08.05-15.06.45:394][ 99]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.08.05-15.06.45:394][ 99]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.08.05-15.06.45:406][ 99]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.08.05-15.06.45:407][ 99]LogHMD: Freeing OpenVRDLLHandle.
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.08.05-15.06.45:407][ 99]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.08.05-15.06.45:408][ 99]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.08.05-15.06.45:441][ 99]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.08.05-15.06.45:441][ 99]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.05-15.06.45:441][ 99]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2BD7AB3-46F1-8DD5-39F2-5FAB7822EEAD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=34c020a2401655c2538165bc6869f075%7C8488b5ccb6b0490dbc1911a64a077711%7Cd3283be0-4604-4e49-ad2d-3f2fa690cf39&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.08.05-15.06.45:454][ 99]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.08.05-15.06.45:455][ 99]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.08.05-15.06.45:457][ 99]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.08.05-15.06.45:463][ 99]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.08.05-15.06.45:463][ 99]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.08.05-15.06.45:463][ 99]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.08.05-15.06.45:464][ 99]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.08.05-15.06.45:464][ 99]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.08.05-15.06.45:464][ 99]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.08.05-15.06.45:464][ 99]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.05-15.06.45:464][ 99]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.05-15.06.45:464][ 99]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.05-15.06.45:465][ 99]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.05-15.06.45:466][ 99]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.05-15.06.45:471][ 99]LogExit: Exiting.
+[2020.08.05-15.06.45:484][ 99]Log file closed, 08/05/20 16:06:45
